@@ -5,4 +5,8 @@ package isdomain
 var ExtendedTLDs = map[string]bool{
 	"BIT":   true,
 	"ONION": true,
+	"LIB":   true,
+	"COIN":  true,
+	"EMC":   true,
+	"BAZAR": true,
 }
